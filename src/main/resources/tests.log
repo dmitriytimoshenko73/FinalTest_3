@@ -1,0 +1,6 @@
+1082 [main] INFO  com.max.BookingServiceTest - Тест positiveCreateBookTest запущен
+1084 [main] DEBUG com.max.BookingServiceTest - Формирование мока
+1112 [main] DEBUG com.max.BookingServiceTest - Запись создана
+1152 [main] INFO  com.max.BookingServiceTest - Тест failCreateBookTest запущен
+1152 [main] DEBUG com.max.BookingServiceTest - Формирование мока
+1160 [main] DEBUG com.max.BookingServiceTest - Возврат CantBookException
